@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["39irv"]); }
+
+__d("ThreadId.bs",["bs_string","bs_belt_Id"],(function(a,b,c,d,e,f){"use strict";a=b("bs_string").compare;c=b("bs_belt_Id").MakeComparable([a]);d=c[0];f.cmp=d}),null);

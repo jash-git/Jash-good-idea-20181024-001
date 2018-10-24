@@ -1,0 +1,1 @@
+(function(){var a=document.querySelector("#tobe"),b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=a.dataset.link+"?jkno="+a.dataset.target+"&vt="+a.dataset.type+"&_="+(new Date).getTime();a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})();
